@@ -21,7 +21,7 @@ contract CryptoDevs is ERC721Enumerable, Ownable {
         _;
     }
     constructor (string memory baseURI, address whitelistContract) ERC721("Crypto Devs", "CD") {
-        _baseTokenURI = baseURI;
+        _basetokenURI = baseURI;
         whitelist = IWhitelist(whitelistContract);
     }
 
@@ -48,7 +48,7 @@ contract CryptoDevs is ERC721Enumerable, Ownable {
     }
 
     function _baseURI() internal view virtual override returns (string memory) {
-        _baseTokenURI;
+        _basetokenURI;
     }
 
     function setPaused(bool val) public onlyOwner {
