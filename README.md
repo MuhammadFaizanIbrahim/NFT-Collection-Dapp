@@ -19,4 +19,5 @@ As users mint NFTs on our Dapp the total token Ids counter increases.
 
 Only 20 NFts could be minted on our Dapp.
 
-![Screenshot 2023-01-03 142845](https://user-images.githubusercontent.com/120009935/210338239-6c98df84-d7c6-4452-864e-8072dcd93da1.jpg)
+
+![Screenshot 2023-01-03 142845](https://user-images.githubusercontent.com/120009935/210341145-2337582e-0d15-43e0-a7cb-a8656a634567.jpg)
