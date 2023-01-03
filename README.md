@@ -1,5 +1,5 @@
 # NFT-Collection-Dapp
-# In this project I have created an NFT Collection Dapp.
+# In this project I have created an NFT Minting and Collection Dapp.
 
 Our Dapp first allow the user to connect it's wallet with the website.
 
